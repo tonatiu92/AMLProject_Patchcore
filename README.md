@@ -14,6 +14,8 @@ The notebook **MyPatchcore.ipynb** show the training and testing phases of the a
 
 The algorithm is able to calculate the score of an anomaly and define the piece as good or not good. Moreover we implemented the segmentation part to identify where the anomaly is detected on the piece. 
 
+The graph and imagaes results are located in each dataset
+
 
 ## Part 2: Extension
 
